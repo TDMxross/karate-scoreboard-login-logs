@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "username": "TestUser",
+    "success": true,
+    "message": "manual test",
+    "timestamp": "2025-10-31T09:18:05.139Z"
+  }
+]
