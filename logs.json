@@ -16,5 +16,11 @@
     "success": true,
     "message": "Login successful",
     "timestamp": "2025-10-31T17:39:58.725Z"
+  },
+  {
+    "username": "tejas",
+    "success": false,
+    "message": "Login failed",
+    "timestamp": "2025-10-31T18:01:28.578Z"
   }
 ]
