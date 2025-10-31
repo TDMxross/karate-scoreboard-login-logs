@@ -42,5 +42,15 @@
     "success": true,
     "message": "Login successful",
     "timestamp": "2025-10-31T18:10:21.405Z"
+  },
+  {
+    "username": "tlo",
+    "password": "9999",
+    "client_id": "@ref ds_map(1)",
+    "success": false,
+    "message": "Login failed",
+    "timestamp": "2025-10-31T18:25:53.790Z",
+    "ip": "2409:40c2:1023:a6fb:d9ac:b7b3:bb1:a099",
+    "user_agent": "GameMaker HTTP"
   }
 ]
