@@ -572,5 +572,15 @@
     "timestamp": "2025-11-16T04:02:50.086Z",
     "ip": "2409:40c2:1037:f20b:9dda:b09c:124c:c19",
     "user_agent": "GameMaker HTTP"
+  },
+  {
+    "password": "3112",
+    "client_id": "@ref ds_map(0)",
+    "success": true,
+    "message": "Login successful",
+    "username": "tdm",
+    "timestamp": "2025-11-16T04:15:20.373Z",
+    "ip": "2401:4900:c094:2a4e:e9e8:a668:1464:e20c",
+    "user_agent": "GameMaker HTTP"
   }
 ]
