@@ -532,5 +532,15 @@
     "timestamp": "2025-11-16T03:48:46.430Z",
     "ip": "2409:40c2:1037:f20b:d52f:787c:8798:158",
     "user_agent": "GameMaker HTTP"
+  },
+  {
+    "password": "caab",
+    "client_id": "@ref ds_map(1)",
+    "success": false,
+    "message": "Login failed",
+    "username": "tdm",
+    "timestamp": "2025-11-16T03:49:15.910Z",
+    "ip": "2409:40c2:1037:f20b:d52f:787c:8798:158",
+    "user_agent": "GameMaker HTTP"
   }
 ]
